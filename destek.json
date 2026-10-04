@@ -1,23 +1,49 @@
 {
-  "guncelleme": "2026-09-20",
+  "guncelleme": "2026-10-04",
   "hedef": {
     "ad": "Ofis kurma",
     "tutar": 120000,
     "aciklama": "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım."
   },
   "destekler": [
-    { "tarih": "2026-09-15", "paket": "destek_comert", "tutar": 599.99 },
-    { "tarih": "2026-09-09", "paket": "destek_cay", "tutar": 59.99 }
+    {
+      "tarih": "2026-09-15",
+      "paket": "destek_comert",
+      "tutar": 599.99
+    },
+    {
+      "tarih": "2026-09-09",
+      "paket": "destek_cay",
+      "tutar": 59.99
+    }
   ],
   "reklamGeliri": [
-    { "ay": "2026-08", "tutar": 32 },
-    { "ay": "2026-09", "tutar": 340 }
+    {
+      "ay": "2026-08",
+      "tutar": 32
+    },
+    {
+      "ay": "2026-09",
+      "tutar": 340
+    }
   ],
   "giderler": [
-    { "ad": "Tanıtım (Google Ads)", "aylik": 4600 },
-    { "ad": "Muhasebe", "aylik": 2000 },
-    { "ad": "Apple Developer hesabı", "aylik": 350 },
-    { "ad": "İçerik, ses kaydı, görsel", "aylik": 500 }
+    {
+      "ad": "Tanıtım (Google Ads)",
+      "aylik": 4600
+    },
+    {
+      "ad": "Muhasebe",
+      "aylik": 2000
+    },
+    {
+      "ad": "Apple Developer hesabı",
+      "aylik": 350
+    },
+    {
+      "ad": "İçerik, ses kaydı, görsel",
+      "aylik": 500
+    }
   ],
-  "mesaj": "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: bu ay ezan sesi düzeltildi, Merhumlarım ve Üç Aylar geldi, iOS sürümü App Store incelemesinde."
+  "mesaj": "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi."
 }
