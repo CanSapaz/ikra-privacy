@@ -45,5 +45,97 @@
       "aylik": 500
     }
   ],
-  "mesaj": "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi."
+  "mesaj": "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.",
+  "ceviriler": {
+    "en": {
+      "Ofis kurma": "Setting up an office",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "A small office where Ikra can be developed full-time: setup, the first year’s rent and equipment.",
+      "Tanıtım (Google Ads)": "Promotion (Google Ads)",
+      "Muhasebe": "Accounting",
+      "Apple Developer hesabı": "Apple Developer account",
+      "İçerik, ses kaydı, görsel": "Content, audio recording, visuals",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "There is no company behind Ikra, just one person. We are growing thanks to you: Ikra is now on the App Store too, the “Where does support go?” page has opened, and 3,600 people downloaded Ikra in September."
+    },
+    "de": {
+      "Ofis kurma": "Ein Büro einrichten",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "Ein kleines Büro, in dem Ikra in Vollzeit entwickelt werden kann: Einrichtung, Miete für das erste Jahr und Ausstattung.",
+      "Tanıtım (Google Ads)": "Werbung (Google Ads)",
+      "Muhasebe": "Buchhaltung",
+      "Apple Developer hesabı": "Apple-Developer-Konto",
+      "İçerik, ses kaydı, görsel": "Inhalte, Tonaufnahmen, Grafiken",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "Hinter Ikra steht keine Firma, nur ein Mensch. Dank Ihnen wachsen wir: Ikra gibt es jetzt auch im App Store, die Seite „Wohin geht die Unterstützung?“ ist online, und im September haben 3.600 Menschen Ikra heruntergeladen."
+    },
+    "fr": {
+      "Ofis kurma": "Ouvrir un bureau",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "Un petit bureau pour développer Ikra à plein temps : installation, loyer de la première année et matériel.",
+      "Tanıtım (Google Ads)": "Promotion (Google Ads)",
+      "Muhasebe": "Comptabilité",
+      "Apple Developer hesabı": "Compte Apple Developer",
+      "İçerik, ses kaydı, görsel": "Contenu, enregistrements audio, visuels",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "Il n’y a pas d’entreprise derrière Ikra, juste une personne. C’est grâce à vous que nous grandissons : Ikra est désormais aussi sur l’App Store, la page « Où va votre soutien ? » est ouverte, et 3 600 personnes ont téléchargé Ikra en septembre."
+    },
+    "id": {
+      "Ofis kurma": "Membuka kantor",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "Kantor kecil agar Ikra bisa dikembangkan penuh waktu: persiapan, sewa tahun pertama, dan perangkat.",
+      "Tanıtım (Google Ads)": "Promosi (Google Ads)",
+      "Muhasebe": "Akuntansi",
+      "Apple Developer hesabı": "Akun Apple Developer",
+      "İçerik, ses kaydı, görsel": "Konten, rekaman suara, visual",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "Tidak ada perusahaan di balik Ikra, hanya satu orang. Kami tumbuh berkat Anda: Ikra kini juga ada di App Store, halaman “Ke mana dukungan disalurkan?” sudah dibuka, dan 3.600 orang mengunduh Ikra pada bulan September."
+    },
+    "ms": {
+      "Ofis kurma": "Membuka pejabat",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "Pejabat kecil supaya Ikra dapat dibangunkan sepenuh masa: persediaan, sewa tahun pertama dan peralatan.",
+      "Tanıtım (Google Ads)": "Promosi (Google Ads)",
+      "Muhasebe": "Perakaunan",
+      "Apple Developer hesabı": "Akaun Apple Developer",
+      "İçerik, ses kaydı, görsel": "Kandungan, rakaman audio, visual",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "Tiada syarikat di sebalik Ikra, hanya seorang. Kami berkembang kerana anda: Ikra kini turut ada di App Store, halaman “Ke mana sokongan disalurkan?” telah dibuka, dan 3,600 orang memuat turun Ikra pada bulan September."
+    },
+    "ru": {
+      "Ofis kurma": "Открыть офис",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "Небольшой офис, чтобы заниматься Ikra полный рабочий день: обустройство, аренда на первый год и оборудование.",
+      "Tanıtım (Google Ads)": "Продвижение (Google Ads)",
+      "Muhasebe": "Бухгалтерия",
+      "Apple Developer hesabı": "Аккаунт Apple Developer",
+      "İçerik, ses kaydı, görsel": "Контент, звукозапись, графика",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "За Ikra стоит не компания, а один человек. Мы растём благодаря вам: Ikra теперь есть и в App Store, открылась страница «Куда идёт поддержка?», а в сентябре Ikra скачали 3600 человек."
+    },
+    "bs": {
+      "Ofis kurma": "Otvaranje ureda",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "Mali ured u kojem se na Ikri može raditi puno radno vrijeme: uređenje, kirija za prvu godinu i oprema.",
+      "Tanıtım (Google Ads)": "Promocija (Google Ads)",
+      "Muhasebe": "Računovodstvo",
+      "Apple Developer hesabı": "Apple Developer račun",
+      "İçerik, ses kaydı, görsel": "Sadržaj, snimanje zvuka, vizuali",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "Iza Ikre ne stoji firma, nego jedna osoba. Rastemo zahvaljujući vama: Ikra je sada i na App Storeu, otvorena je stranica „Gdje ide podrška?“, a u septembru je Ikru preuzelo 3.600 ljudi."
+    },
+    "ar": {
+      "Ofis kurma": "تجهيز مكتب",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "مكتب صغير لتطوير Ikra بدوام كامل: التجهيز وإيجار السنة الأولى والمعدات.",
+      "Tanıtım (Google Ads)": "الترويج (Google Ads)",
+      "Muhasebe": "المحاسبة",
+      "Apple Developer hesabı": "حساب Apple Developer",
+      "İçerik, ses kaydı, görsel": "المحتوى والتسجيل الصوتي والتصميم",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "لا تقف وراء Ikra شركة، بل شخص واحد. نكبر بفضلكم: أصبح Ikra متاحًا على App Store أيضًا، وافتُتحت صفحة «أين يذهب الدعم؟»، ونزّل Ikra ٣٦٠٠ شخص في سبتمبر."
+    },
+    "ur": {
+      "Ofis kurma": "دفتر کا قیام",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "ایک چھوٹا دفتر جہاں Ikra پر کل وقتی کام ہو سکے: تیاری، پہلے سال کا کرایہ اور سامان۔",
+      "Tanıtım (Google Ads)": "تشہیر (Google Ads)",
+      "Muhasebe": "اکاؤنٹنگ",
+      "Apple Developer hesabı": "Apple Developer اکاؤنٹ",
+      "İçerik, ses kaydı, görsel": "مواد، صوتی ریکارڈنگ، تصاویر",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "Ikra کے پیچھے کوئی کمپنی نہیں، صرف ایک شخص ہے۔ ہم آپ کی بدولت بڑھ رہے ہیں: Ikra اب App Store پر بھی ہے، «تعاون کہاں جاتا ہے؟» کا صفحہ کھل گیا ہے، اور ستمبر میں 3,600 لوگوں نے Ikra ڈاؤن لوڈ کیا۔"
+    },
+    "fa": {
+      "Ofis kurma": "راه‌اندازی دفتر",
+      "İkra'yı tam zamanlı geliştirebileceğimiz küçük bir ofis: kurulum, ilk yıl kira ve donanım.": "دفتری کوچک تا Ikra به‌صورت تمام‌وقت توسعه یابد: راه‌اندازی، اجارهٔ سال اول و تجهیزات.",
+      "Tanıtım (Google Ads)": "تبلیغات (Google Ads)",
+      "Muhasebe": "حسابداری",
+      "Apple Developer hesabı": "حساب Apple Developer",
+      "İçerik, ses kaydı, görsel": "محتوا، ضبط صدا، تصویر",
+      "İkra'nın arkasında bir şirket yok, tek kişi var. Sizin sayenizde büyüyoruz: İkra artık App Store'da da var, Destekler Nereye Gidiyor sayfası açıldı, Eylül'de 3.600 kişi İkra'yı indirdi.": "پشت Ikra شرکتی نیست، فقط یک نفر است. به لطف شما رشد می‌کنیم: Ikra اکنون در App Store هم هست، صفحهٔ «حمایت‌ها کجا می‌رود؟» باز شده و در سپتامبر ۳۶۰۰ نفر Ikra را دانلود کردند."
+    }
+  }
 }
